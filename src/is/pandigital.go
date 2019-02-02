@@ -1,6 +1,6 @@
-package lib
+package is
 
-func IsPandigital(n int) bool {
+func Pandigital(n int) bool {
 	var digits, count, tmp int
 
 	for n > 0 {
