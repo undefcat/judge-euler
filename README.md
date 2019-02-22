@@ -1,9 +1,11 @@
 # Project Euler
 
-![Profile](https://projecteuler.net/profile/rlaxognsk.png)
+![Profile](https://projecteuler.net/profile/undefcat.png)
 
 ## History
 
+- ~~072: 22 Feb 19 (15:58)~~
+- 071: 21 Feb 19 (12:23)
 - ~~070: 20 Feb 19 (21:56)~~
 - 069: 19 Feb 19 (10:55)
 - 068: 18 Feb 19 (11:25)
